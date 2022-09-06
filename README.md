@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-🌱 I am now very interested in 
-
-<a href="https://github.com/statelyai/xstate"><img height="20" src="https://user-images.githubusercontent.com/1093738/101672561-06aa7480-3a24-11eb-89d1-787fa7112138.png"></a>     
-
-<a href="https://go.dev/"><img height="20" src="https://go.dev/images/go-logo-blue.svg"></a>
-
+ :books: I want to learn <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 
 ### Skills
 ![](img/2022-09-05-22-04-20.png)
