@@ -6,8 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '*/1 * * * *'
+    - cron: '*/6 * * * *'
  
 jobs:
   update-readme:
@@ -17,3 +16,5 @@ jobs:
       - uses: xzdry/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.XZDRY }}
+          SHOW_TOTAL: true
+          TIME_RANGE: last_7_days
