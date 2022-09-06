@@ -14,6 +14,14 @@
 ### wakatime
 <!--START_SECTION:waka-->
 
+```text
+TypeScript   19 hrs 2 mins   ███████████████████▒░░░░░   76.85 %
+JSON         2 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+JavaScript   1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Markdown     1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Other        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+```
+
 <!--END_SECTION:waka-->
 
 ### blog posts
