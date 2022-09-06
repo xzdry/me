@@ -10,7 +10,7 @@
 [![xzdry's github stats](https://github-readme-stats.vercel.app/api?username=xzdry&count_private=true&show_icons=true&theme=vue)](https://github.com/xzdry)
 
 ### leetcode
-[![xzdry's github stats](https://leetcard.jacoblin.cool/xzdry-2?theme=light&font=Anek%20Kannada&site=cn&ext=heatmap)](https://leetcode.cn/u/xzdry-2/)
+[![xzdry's github stats](https://leetcard.jacoblin.cool/xzdry-2?theme=light&font=Anek%20Kannada&site=cn&ext=heatmap&cache=0)](https://leetcode.cn/u/xzdry-2/)
 
 ### wakatime
 <!--START_SECTION:waka-->
