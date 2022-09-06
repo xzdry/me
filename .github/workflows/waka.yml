@@ -17,3 +17,5 @@ jobs:
       - uses: xzdry/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.XZDRY }}
+          SHOW_TOTAL: true
+          TIME_RANGE: last_7_days
