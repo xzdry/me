@@ -16,10 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 9 hrs 57 mins
+Total Time: 6 hrs 28 mins
 
-JSON         4 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   31.75 %
-Other        4 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   31.25 %
+JSON         3 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   39.91 %
+Other        2 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   28.04 %
 ```
 
 <!--END_SECTION:waka-->
