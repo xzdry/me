@@ -16,10 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 11 mins
+Total Time: 1 hr 2 mins
 
-TypeScript   10 mins         █████████████████████▒░░░   85.58 %
-YAML         1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
+YAML         32 mins         █████████████░░░░░░░░░░░░   51.94 %
+JavaScript   17 mins         ███████░░░░░░░░░░░░░░░░░░   28.28 %
+TypeScript   12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.78 %
 ```
 
 <!--END_SECTION:waka-->
