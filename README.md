@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 33 hrs 16 mins
+Total Time: 33 hrs 54 mins
 
-TypeScript   19 hrs 27 mins  ██████████████▓░░░░░░░░░░   58.47 %
-YAML         11 hrs 37 mins  ████████▓░░░░░░░░░░░░░░░░   34.91 %
-JSON         1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+TypeScript   20 hrs 16 mins  ███████████████░░░░░░░░░░   59.80 %
+YAML         11 hrs 7 mins   ████████▒░░░░░░░░░░░░░░░░   32.81 %
+JSON         2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 Git          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
