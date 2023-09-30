@@ -16,14 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 56 mins
-
-ActionScript   32 mins         ███████░░░░░░░░░░░░░░░░░░   27.76 %
-JavaScript     27 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
-CoffeeScript   22 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 %
-TSQL           20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
-GDScript       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Text           5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
