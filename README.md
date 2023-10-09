@@ -16,14 +16,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 4 hrs 23 mins
+Total Time: 10 hrs 37 mins
 
-JavaScript     1 hr 19 mins    ███████▓░░░░░░░░░░░░░░░░░   30.15 %
-JSON           1 hr 1 min      ██████░░░░░░░░░░░░░░░░░░░   23.45 %
-CoffeeScript   58 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
-GDScript       38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-TypeScript     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-ActionScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+CoffeeScript   2 hrs 46 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
+GDScript       2 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+JavaScript     1 hr 45 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+JSON           1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+SCSS           1 hr 39 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
+TypeScript     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
