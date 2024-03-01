@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 28 hrs 28 mins
+Total Time: 24 hrs 29 mins
 
-TypeScript   18 hrs 9 mins   ███████████████▒░░░░░░░░░   60.74 %
-JSON         6 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
-Other        1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+TypeScript   15 hrs 45 mins  ███████████████▒░░░░░░░░░   61.77 %
+JSON         5 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+Other        1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
