@@ -16,10 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 31 hrs 48 mins
+Total Time: 29 hrs 30 mins
 
-TypeScript     27 hrs 59 mins  ████████████████████▓░░░░   82.55 %
-Other          2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+TypeScript     24 hrs 12 mins  ██████████████████░░░░░░░   71.48 %
+Other          4 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
 ```
 
 <!--END_SECTION:waka-->
