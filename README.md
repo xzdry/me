@@ -16,7 +16,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 4 hrs 18 mins
+
+TypeScript     2 hrs 34 mins   ███████████████░░░░░░░░░░   59.68 %
+CoffeeScript   58 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
+JSON           21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+YAML           15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+JavaScript     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
